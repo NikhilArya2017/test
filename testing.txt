@@ -1,0 +1,2 @@
+hello Niki 
+This is trying to push a txt file into the Github.
